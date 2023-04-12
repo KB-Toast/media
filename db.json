@@ -11,8 +11,58 @@
     {
       "name": "Harold Strosin",
       "id": 4
+    },
+    {
+      "name": "Darla Cummings",
+      "id": 5
+    },
+    {
+      "name": "Bob Hayes",
+      "id": 6
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Licensed Granite Bike",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Steel Soap",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Plastic Sausages",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Soft Shirt",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66218",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38349",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82015",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58460",
+      "id": 4
+    }
+  ]
 }
